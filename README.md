@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yatin Sansanwal
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning DSA and ML in Python.
+- 👀 I’m proficient in DSA, Data Science and Machine Learning.
 - 📫 How to reach me : [LinkedIn](http://www.linkedin.com/in/11-yatin-sansanwal)
 
 <!---
